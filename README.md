@@ -1,1 +1,1 @@
-# resources-collection
+# Resources Collection
